@@ -4,7 +4,10 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300px" alt="Cat typing fast on keyboard" />
 </div>
 
----
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
+
 
 ## 👩‍💻 About Me
 
@@ -14,7 +17,10 @@
 - 📊 Interested in Big Data, Cloud Computing and Data Architecture;
 - 🌱 Always learning and exploring new technologies.
 
----
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +55,10 @@
 
 </div>
 
----
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
+
 
 ## 📊 GitHub Stats
 
@@ -60,7 +69,10 @@
 
 </div>
 
----
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
+
 
 ## 📫 Let's Connect!
 
